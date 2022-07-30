@@ -10,6 +10,6 @@ setup(
     long_description=open('README.txt').read(),
     install_requires=['numpy'],
     url='https://https://github.com/smyyyaydn/paket-olu-turma-',
-    author='Bill Mills',
-    author_email='myemail@example.com'
+    author='sümeyye aydın',
+    author_email='smyyydn8@gmail.com'
 )
